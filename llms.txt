@@ -1,0 +1,21 @@
+# CuteFela
+
+CuteFela is an environmental organisation rooted in Sri Lanka working across biodiversity protection, environmental learning, sustainable livelihoods, disaster response and environmental governance.
+
+## Core pages
+- https://www.cutefela.com/ — overview
+- https://www.cutefela.com/who-we-are.html — vision, mission and organisational approach
+- https://www.cutefela.com/work.html — initiative overview
+- https://www.cutefela.com/school-programs.html — Empowering Youth & Children school programme
+- https://www.cutefela.com/wildlife-rehabilitation.html — wildlife rehabilitation project
+- https://www.cutefela.com/disaster-response.html — disaster response approach
+- https://www.cutefela.com/species.html — species field guides
+- https://www.cutefela.com/global-engagement.html — UN and international environmental engagement
+- https://www.cutefela.com/partner.html — partnerships
+- https://www.cutefela.com/contact.html — contact
+- https://www.cutefela.com/privacy.html — privacy
+- https://www.cutefela.com/cutefela-and-ai.html — AI disclosure
+
+## Institutional sources
+UNCCD COP16 accreditation document: https://www.unccd.int/sites/default/files/2024-11/cop14-accreditation%20advance%20copy%20.pdf
+2026 UN Water Conference special accreditation: https://sdgs.un.org/documents/ngos-and-stakeholder-organizations-specially-accredited-attend-2026-un-water-conference
